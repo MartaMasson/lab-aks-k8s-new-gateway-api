@@ -579,6 +579,9 @@ CQD ;)
 
 (Como queríamos demonstrar!)
 
+### Add-on para Gateway API no AKS
+Futuramente a Microsoft irá disponibilizar, da mesma forma que existe hoje o addon para NGINX gerenciado, um addon para o istio. A versão preview já está disponível e você pode conferir [aqui](https://blog.aks.azure.com/2025/11/13/ingress-nginx-update)
+
 ### Referências
 
 - [Kubernetes Gateway API](https://gateway-api.sigs.k8s.io/)
